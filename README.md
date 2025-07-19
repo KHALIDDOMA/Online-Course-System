@@ -349,6 +349,5 @@ For support and questions:
 - Contact the development team
 - Check the test classes for usage examples
 
----
-
-**Note**: This system is designed for educational purposes and demonstrates advanced Java programming concepts including inheritance, polymorphism, interfaces, and exception handling.
+> [!note]  
+> The system calculates the distance between the starting point and the endpoint and compares it with the distance obtained from Google Maps.
