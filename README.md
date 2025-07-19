@@ -328,7 +328,7 @@ For any inquiries or support, please contact:
         <a href= https://github.com/KareemMostafa1 >
             <img src=https://avatars.githubusercontent.com/u/115054256?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Mohamed Hussien                Mansour/>
             <br />
-            <sub style="font-size:14px"><b>Kareem Mostafa</b></sub>
+            <sub style="font-size:14px"><b>Mohamed Hussien Mansour</b></sub>
         </a>
     </td>
    
