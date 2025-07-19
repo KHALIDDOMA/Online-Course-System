@@ -301,7 +301,7 @@ The system implements comprehensive error handling with:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 For any inquiries or support, please contact:
 
 <table>
@@ -330,8 +330,8 @@ For any inquiries or support, please contact:
             <sub style="font-size:14px"><b>Kareem Mostafa</b></sub>
         </a>
     </td>
+   </tr>
 </table>
-</tr>
 ## 🙏 Acknowledgments
 
 - Java Collections Framework for data structures
