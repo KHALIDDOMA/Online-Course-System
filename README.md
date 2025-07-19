@@ -303,7 +303,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**KHALID** - *Initial work*
+  <!-- Khalid Doma -->
+    <td align="center" style="word-wrap: break-word; width: 170.0; height: 170.0">
+        <a href= https://github.com/KHALIDDOMA >
+            <img src=https://avatars.githubusercontent.com/u/77086956?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Khalid Doma/>
+            <br />
+            <sub style="font-size:14px"><b>Khalid Doma</b></sub>
+        </a>
+    </td>
+  <!-- Kareem Mostafa -->
+    <td align="center" style="word-wrap: break-word; width: 170.0; height: 170.0">
+        <a href= https://github.com/KareemMostafa1 >
+            <img src=https://avatars.githubusercontent.com/u/167640929?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Kareem Mostafa/>
+            <br />
+            <sub style="font-size:14px"><b>Kareem Mostafa</b></sub>
+        </a>
+    </td>
+  <!-- Mohamed Hussien Mansour -->
+    <td align="center" style="word-wrap: break-word; width: 170.0; height: 170.0">
+        <a href= https://github.com/KareemMostafa1 >
+            <img src=https://avatars.githubusercontent.com/u/115054256?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Mohamed Hussien                Mansour/>
+            <br />
+            <sub style="font-size:14px"><b>Kareem Mostafa</b></sub>
+        </a>
+    </td>
 
 ## 🙏 Acknowledgments
 
